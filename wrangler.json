@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dreamatic-nexus",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ac5be5b0-10ca-4354-be78-b2bdc0f16069",
+      "database_name": "nexus-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
